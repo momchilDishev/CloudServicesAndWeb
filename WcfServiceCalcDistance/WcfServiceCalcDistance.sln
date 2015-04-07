@@ -14,6 +14,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.WebApplicationServicesRE
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.DistanceCalculatorClientREST", "DistanceCalculatorREST\02.DistanceCalculatorClientREST.csproj", "{83C56440-49C0-4443-BAE0-DF64BCF8C005}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SoftUniWebApi", "SoftUniWebApi\SoftUniWebApi.csproj", "{69C4A530-9E17-4C5B-A69C-B7275BCBB47F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SoftUniWebApiSelfHost", "SoftUniWebApiSelfHost\SoftUniWebApiSelfHost.csproj", "{0D4777AC-7A47-4809-B721-1E6CF97771E6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -36,6 +40,14 @@ Global
 		{83C56440-49C0-4443-BAE0-DF64BCF8C005}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{83C56440-49C0-4443-BAE0-DF64BCF8C005}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{83C56440-49C0-4443-BAE0-DF64BCF8C005}.Release|Any CPU.Build.0 = Release|Any CPU
+		{69C4A530-9E17-4C5B-A69C-B7275BCBB47F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{69C4A530-9E17-4C5B-A69C-B7275BCBB47F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{69C4A530-9E17-4C5B-A69C-B7275BCBB47F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{69C4A530-9E17-4C5B-A69C-B7275BCBB47F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0D4777AC-7A47-4809-B721-1E6CF97771E6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D4777AC-7A47-4809-B721-1E6CF97771E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D4777AC-7A47-4809-B721-1E6CF97771E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D4777AC-7A47-4809-B721-1E6CF97771E6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

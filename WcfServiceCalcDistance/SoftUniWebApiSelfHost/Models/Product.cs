@@ -12,5 +12,11 @@ namespace SoftUniWebApiSelfHost
         public string Name { get; set; }
 
         public double Price { get; set; }
+
+        public Product(string name)
+        {
+            // TODO: Complete member initialization
+            this.Name = name;
+        }
     }
 }

@@ -20,6 +20,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SoftUniWebApiSelfHost", "So
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmptyWebApi2", "EmptyWebApi2\EmptyWebApi2.csproj", "{C1686A6D-5A7B-4C11-8BEF-1CCA2BF9DCC0}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExamPrep17042015", "ExamPrep17042015\ExamPrep17042015.csproj", "{C2F852C7-01C9-462E-B9CF-843B8E036825}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -54,6 +56,10 @@ Global
 		{C1686A6D-5A7B-4C11-8BEF-1CCA2BF9DCC0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C1686A6D-5A7B-4C11-8BEF-1CCA2BF9DCC0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C1686A6D-5A7B-4C11-8BEF-1CCA2BF9DCC0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C2F852C7-01C9-462E-B9CF-843B8E036825}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C2F852C7-01C9-462E-B9CF-843B8E036825}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C2F852C7-01C9-462E-B9CF-843B8E036825}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C2F852C7-01C9-462E-B9CF-843B8E036825}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

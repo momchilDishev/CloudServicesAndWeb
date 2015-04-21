@@ -7,11 +7,11 @@ using WebApplicationServices.Models;
 
 namespace WebApplicationServices.Controllers
 {
-    [RoutePrefix("api/calcDistance")]
+    [RoutePrefix("api")]
     public class CalculateDistanceController: ApiController
     {
         // GET api/CalculateDistanceBetweenPoints
-        [Route("{startpoint: Point, endpoint: Point}")]
+        [Route("/CalculateDistanceBetweenPoints")]
         [HttpGet]
         public double GetCalculatedDistanceBetweenPoints(Point startpoint, Point endpoint)
         {
